@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is MaverickD650
 #### I am simple dev at the beginning of their dev journey
-Recently got into homelabbing and busy learning and building new projects currently with TrueNAS SCALE and TrueCharts but open to new possibilities.
+Recently got into homelabbing but I've already come a long way. I'm currently busy learning and building new projects currently with Talos but open to new possibilities.
 
 Skills: Kubernetes / Helm
 
-- 🔭 I’m currently working on developing helm charts  
+- 🔭 I’m currently working on developing GitOps knowledge with my homeops cluster
 - 🌱 I’m currently learning kubernetes 
-- 🤔 I’m looking for help with platforms beyond TrueNAS SCALE 
+- 🤔 I’m looking for help with learning more about Flux and GitOps
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaverickD650)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://labdocs.g5yss.uk/)  
